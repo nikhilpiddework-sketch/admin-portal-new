@@ -1,1 +1,0 @@
-QRDD:\Development\Projects\NITA\DAES\DTPortal.Core\DTPortal.Core.csprojòCSharp12

@@ -1,1 +1,0 @@
-ORBD:\Development\Projects\NITA\DAES\DTPortal.Web\DTPortal.Web.csprojòCSharp12

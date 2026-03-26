@@ -1,6 +1,0 @@
-projectKey=AdminPortal
-serverUrl=http://84.46.255.66:9100
-serverVersion=26.3.0.120487
-dashboardUrl=http://84.46.255.66:9100/dashboard?id=AdminPortal
-ceTaskId=eac6378b-01d7-4a41-b588-9c2a18b7dd94
-ceTaskUrl=http://84.46.255.66:9100/api/ce/task?id=eac6378b-01d7-4a41-b588-9c2a18b7dd94
